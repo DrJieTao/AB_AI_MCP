@@ -44,7 +44,6 @@ For installation details, use these files:
 
 - `mcp/AB_AI_pred_market/INSTALL.md`
 - `mcp/AB_AI_pred_market/CLASSROOM_DISTRIBUTION.md`
-- `mcp/AB_AI_pred_market/TROUBLESHOOTING.md`
 - `mcp/AB_AI_pred_market/README.md`
 - `MCP_INSTALL_LOCAL.md`
 - `SKILL_UPLOAD.md`
